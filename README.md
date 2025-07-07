@@ -1,3 +1,3 @@
 # Archeological
 
-Archeological is a vanilla + style mod, focused on expanding the archeology mechanics and adding more dynamism to the game experience. Get the new Archeology table, new items and blocks to decorate and build, ancient paintings like Petroglyphs, ancient Statues, Remains from the past, and many new ruins throughout the Overworld.
+Archeological is a vanilla + style expansion to archeology, offering a more entertaining and dynamic experience to your explorations, with new items, decorative blocks and new structures.
